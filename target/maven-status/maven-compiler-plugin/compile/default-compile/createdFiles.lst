@@ -1,0 +1,9 @@
+com/ms/batch/process/Writer.class
+com/ms/batch/config/BatchConfig.class
+com/ms/batch/config/BatchConfig$1.class
+com/ms/batch/Dao/EmployeeDao.class
+com/ms/batch/process/Processor.class
+com/ms/batch/Controller/Controller.class
+com/ms/batch/Application.class
+com/ms/batch/model/Employee.class
+com/ms/batch/process/Reader.class
